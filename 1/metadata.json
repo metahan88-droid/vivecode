@@ -1,0 +1,7 @@
+{
+  "name": "수학 문제 일러스트 변환기",
+  "description": "Convert rough math sketches into clean, textbook-style geometric illustrations using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
